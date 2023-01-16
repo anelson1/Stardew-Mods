@@ -1,0 +1,18 @@
+{
+   "Name": "Vintage Interface 2.0 (CP)",
+   "Author": "ManaKirel",
+   "Version": "2.2.4",
+   "Description": "A cream-brown menu interface for CP",
+	"UniqueID": "ManaKirel.VintageInterface2",
+	"MinimumApiVersion": "3.7.3",
+	"ContentPackFor": {
+	"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": ["Nexus:1244"],
+	"Dependencies": [
+		{
+		   "UniqueID": "stardewfoliageredonereshade",
+		   "IsRequired": false
+		},  
+	]
+}

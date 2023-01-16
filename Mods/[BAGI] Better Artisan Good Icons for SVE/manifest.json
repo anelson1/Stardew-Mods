@@ -1,0 +1,14 @@
+{
+    "Name": "Better Artisan Good Icons for SVE",
+    "Author": "MidnightChord",
+    "Version": "1.3",
+    "Description": "Adds unique icons for artisan goods added by SVE.",
+    "UniqueID": "MidnightChord.bagiSVE",
+    "MinimumApiVersion": "3.6.1",
+    "UpdateKeys": ["Nexus:9372"],
+    "ContentPackFor":
+    {
+        "UniqueID": "cat.betterartisangoodicons",
+        "MinimumVersion": "1.4.0"
+    },
+}
