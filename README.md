@@ -5,9 +5,9 @@
 3. To play, you must launch the StardewModdingApi.exe
 
 
-                                          
+```                                          
                               /       //  
-          //       /        //.      //   
+           //       /        //      //   
           ///     ///      ///      ///  
          /////    ////     //      ///     
         /// //   ((((((   ///      //      
@@ -22,5 +22,5 @@
    //      ///      ///     ///
   ///      //        /       //
  //       /
-
+```
 *If it aint nelson, it aint net*
