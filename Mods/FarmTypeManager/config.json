@@ -3,5 +3,5 @@
   "EnableContentPacks": true,
   "EnableTraceLogMessages": true,
   "EnableEPUDebugMessages": false,
-  "MonsterLimitPerLocation": null
+  "MonsterLimitPerLocation": 30
 }
