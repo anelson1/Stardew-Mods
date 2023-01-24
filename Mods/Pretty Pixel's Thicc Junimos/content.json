@@ -1,0 +1,11 @@
+{
+  "Format": "1.0",
+  "Changes": [
+       // replace an entire file
+       {
+          "Action": "Load",
+          "Target": "Characters/Junimo",
+          "FromFile": "assets/Junimo.png"
+       }
+    ]
+}
