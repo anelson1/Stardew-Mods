@@ -25,3 +25,4 @@ jobs:
           title: "Stardew Modpack"
           files: |
             *.zip
+            *.ps1

@@ -96,8 +96,8 @@
     }
   },
   "Controls": {
-    "SummonTractor": "Back",
-    "DismissTractor": "Back",
+    "SummonTractor": "None",
+    "DismissTractor": "None",
     "HoldToActivate": "None"
   },
   "CustomAttachments": [],
