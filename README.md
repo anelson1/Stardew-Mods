@@ -1,8 +1,12 @@
 ### How to install:
  
 1. Download SMAPI and install (https://smapi.io)
-2. Place mods folder in common/Stardew Valley
-3. To play, you must launch the StardewModdingApi.exe
+2. Download the installer from the releases page
+3. Run `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted` to allow powershell scripts to execute
+4. Right click the installer and click *run with powershell*
+4. Open StardewModdingApi.exe
+5. Give me all your sprinklers >:)
+
 
 
 ```                                          
