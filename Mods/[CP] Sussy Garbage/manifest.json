@@ -1,0 +1,10 @@
+{
+	"Name": "Sussy Garbage",
+	"Author": "TaelFayre",
+	"Description": "AMOGUS",
+	"Version": "1.1.0",
+	"UniqueID": "TaelF.SusGarbo",
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+}

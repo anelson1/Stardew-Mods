@@ -1,0 +1,13 @@
+{
+	"Name": "Garfield Cat",
+	"Author": "6480",
+	"Version": "1.1.1",
+	"Description": "This mod turns your pet cat into Garfield.",
+	"UniqueID": "6480.garfieldcat",
+	"MinimumApiVersion": "3.0.1",
+	"MinimumGameVersion": "1.4.0",
+	"UpdateKeys": [ "Nexus:4389" ],
+	"ContentPackFor":{
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Estrogen Tonic",
+    "Author": "Furufoo",
+    "Version": "1.0.0",
+    "Description": "Changes Energy Tonic name and description in-game to estrogen.",
+    "UniqueID": "Furufoo.EstrogenTonic",
+    "UpdateKeys": ["Nexus:13379"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

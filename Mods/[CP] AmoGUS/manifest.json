@@ -1,0 +1,11 @@
+{
+  "Name": "AmoGUS",
+  "Author": "Le_BluBird",
+  "Version": "1.0.0",
+  "Description": "Reskin",
+  "UniqueID": "BluBird.AmoGUS",
+  "MinimumApiVersion": "3.1",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

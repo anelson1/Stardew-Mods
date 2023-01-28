@@ -1,0 +1,38 @@
+{
+  "Format": "1.23.0",
+  "ConfigSchema": {
+    "Garbage": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Description": "Enable Garbage Cans?"
+    },
+    "Vent": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Description": "Enable Digspot Vents?"
+    }
+  },
+  "Changes": [
+    // Changes Garbo Cans
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors2",
+      "FromFile": "assets/AMONGUS.png",
+      "PatchMode": "Replace",
+      "ToArea": { "X": 22, "Y": 0, "Width": 67, "Height": 31 },
+      "When": {
+        "Garbage": "true"
+      }
+    },
+    // Sus Vents
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/vent.png",
+      "ToArea": { "X": 368, "Y": 32, "Width": 64, "Height": 16 },
+      "When": {
+        "Vent": "true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "Format": "1.27.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "349": {   // item #349 (Energy Tonic)
+					4: "Estrogen", // set field 4 (display name)
+					5: "Juice that makes you grow tits.", // set field 5 (description)
+                }
+            }
+        }
+    ]
+}

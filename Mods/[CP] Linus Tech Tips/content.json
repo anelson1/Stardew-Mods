@@ -1,0 +1,10 @@
+{
+   "Format": "1.25.0",
+   "Changes": [
+      {
+         "Action": "Load",
+         "Target": "portraits/Linus",
+         "FromFile": "Content/Portraits/Linus.xnb"
+      },
+   ]
+}

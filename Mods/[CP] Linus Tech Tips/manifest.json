@@ -1,0 +1,12 @@
+{
+   "Name": "Linus Tech Tips",
+   "Author": "Bopl3r",
+   "Version": "1.0.0",
+   "Description": "lunos tech tip portrait for Linus",
+   "UniqueID": "Bopl3r.LinusTechTips",
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    	"MinimumVersion": "1.3.0" // optional
+  }
+}

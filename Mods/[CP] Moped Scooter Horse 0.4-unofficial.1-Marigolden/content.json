@@ -1,0 +1,11 @@
+{
+   "Format": "1.9",
+   "Changes": [
+    //Replaces Horse with a Moped Scooter
+      {
+         "Action": "Load",
+         "Target": "Animals/Horse",
+         "FromFile": "moped.png"
+      }
+   ]
+}

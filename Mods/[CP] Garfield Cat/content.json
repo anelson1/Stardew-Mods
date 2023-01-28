@@ -1,0 +1,39 @@
+{
+	"Format": "1.19.0",
+	"ConfigSchema": {
+		"EditCat": {
+			"AllowValues": "cat, cat1, cat2",
+			"Default": "cat",
+			"Description": "Which cat is replaced by Garfield. cat = orange cat, cat1 = grey cat, cat2 = yellow cat."
+			}
+		},
+	"Changes": [
+		{
+        "Action": "EditImage",
+         "Target": "Animals/{{EditCat}}",
+         "FromFile": "assets/garfield.png",
+	"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 256 }
+		},
+		{
+        "Action": "EditImage",
+         "Target": "LooseSprites/Cursors",
+         "FromFile": "assets/garfieldicon.png",
+         "ToArea": { "X": 160, "Y": 208, "Width": 16, "Height": 16 },
+	"When": { "EditCat": "cat" }
+		},
+		{
+        "Action": "EditImage",
+         "Target": "LooseSprites/Cursors",
+         "FromFile": "assets/garfieldicon.png",
+         "ToArea": { "X": 176, "Y": 208, "Width": 16, "Height": 16 },
+	"When": { "EditCat": "cat1" }
+		},
+		{
+        "Action": "EditImage",
+         "Target": "LooseSprites/Cursors",
+         "FromFile": "assets/garfieldicon.png",
+         "ToArea": { "X": 192, "Y": 208, "Width": 16, "Height": 16 },
+	"When": { "EditCat": "cat2" }
+		}
+	]
+}
