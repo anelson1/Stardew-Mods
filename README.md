@@ -1,3 +1,6 @@
+## A Stardew Modpack
+This repo is a small Stardew mod pack I created for my friends and I. Included in this repo is a workflow to automatically create a zip file each time a new mod is added and publish a release of it and a PowerShell script to automatically install the mod pack to your Stardew install directory.
+
 ### How to install:
  
 1. Download SMAPI and install (https://smapi.io)
