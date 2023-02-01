@@ -1,0 +1,19 @@
+{
+  "VanillaShops": [
+	{
+	"ShopName": "PierreShop",
+	  "AddStockAboveVanilla": "True",
+      "ItemStocks": [
+			{
+				"ItemType": "Object",
+				"StockPrice": 20000,
+				"ItemNames": [
+				  "Iridium Sprinkler"
+				]
+				  }
+		  ]
+	}
+	]
+}
+          
+          

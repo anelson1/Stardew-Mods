@@ -1,0 +1,13 @@
+{
+  "Name": "Pierre Sells Sprinklers",
+  "Author": "MortaliB",
+  "Version": "1.0",
+  "Description": "Pierre Sells Sprinklers.",
+  "UniqueID": "MortaliB.PierreSellsSprinklers",
+  "MinimumApiVersion": "3.4.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Cherry.ShopTileFramework",
+	"MinimumVersion": "1.0.5"
+  }
+}
