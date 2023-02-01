@@ -2,5 +2,6 @@
   "CursorLightIntensity": 0.5,
   "CursorLightBind": "L",
   "CursorLightHold": false,
-  "PlaceBind": "O"
+  "PlaceBind": "O",
+  "ReloadBind": "None"
 }

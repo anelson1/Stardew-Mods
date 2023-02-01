@@ -96,7 +96,7 @@
     }
   },
   "Controls": {
-    "SummonTractor": "None",
+    "SummonTractor": "Back",
     "DismissTractor": "None",
     "HoldToActivate": "None"
   },
