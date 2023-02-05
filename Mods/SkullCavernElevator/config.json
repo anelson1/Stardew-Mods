@@ -1,6 +1,6 @@
 {
-  "ElevatorStep": 5,
-  "Difficulty": 1.0,
+  "ElevatorStep": 25,
+  "Difficulty": 2.5,
   "FirstLevelElevatorActive": true,
-  "ElevatorCostPerStep": 750
+  "ElevatorCostPerStep": 5000
 }
