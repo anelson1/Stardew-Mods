@@ -1,7 +1,7 @@
 {
   "Name": "Moped Scooter Horse", //https://www.nexusmods.com/stardewvalley/mods/135
   "Author": "monteso",
-  "Version": "0.4-unofficial.1-Marigolden",
+  "Version": "1.1.2",
   "Description": "Replaces horse with a Moped scooter.",
   "UniqueID": "monteso.MopedScooterHorse",
   "MinimumApiVersion": "2.11.0",

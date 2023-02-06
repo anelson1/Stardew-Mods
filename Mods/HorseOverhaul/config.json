@@ -13,7 +13,7 @@
   "NewFoodSystem": true,
   "AllowMultipleFeedingsADay": false,
   "HorseMenuKey": "H, LeftStick + DPadUp",
-  "PetMenuKey": "P, LeftStick + DPadDown",
+  "PetMenuKey": "LeftStick + DPadDown",
   "AlternateSaddleBagAndFeedKey": "LeftStick",
   "DisableMainSaddleBagAndFeedKey": false,
   "DisableStableSpriteChanges": false,

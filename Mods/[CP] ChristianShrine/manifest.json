@@ -1,0 +1,10 @@
+{
+   "Name": "ChristianShrine",
+   "Author": "p0sTpWnEd",
+   "Description": "Turn the Yoba shrine in Pierres to a Christian one.",
+   "Version": "1.0.0",
+   "UniqueID": "p0sTpWnEd.ChristianShrine",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

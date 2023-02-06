@@ -1,0 +1,20 @@
+{
+   "Format": "1.19.0",
+   "Changes": [
+      {
+         "Action": "EditImage",
+         "Patchmode": "Replace",
+         "Target": "Maps/townInterior",
+         "FromFile": "assets/Shrine.png",
+         "ToArea": { "X": 258, "Y": 374, "Width": 42, "Height": 40 }
+      },
+      {
+         "Action": "EditData",
+         "Target": "Strings/Locations",
+         "Entries": {
+            "SeedShop_Yoba": "Altar of Jesus Christ"
+         },
+       }
+
+   ]
+}

@@ -744,7 +744,7 @@
           "Target": "LooseSprites/Cursors",
           "FromFile": "assets/{{Palette}}/Mouse Cursors_{{season}}.png",
           "FromArea": { "X": 0, "Y": 0, "Width": 59, "Height": 31 }, 
-          "ToArea": { "X": 605, "Y": 1958, "Width": 59, "Height": 31 },
+          "ToArea": { "X": 64, "Y": 704, "Width": 59, "Height": 31 },
           "PatchMode": "Replace",
 			"When": {
 			"Hat Mouse House": "True",

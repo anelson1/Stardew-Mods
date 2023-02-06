@@ -1,0 +1,11 @@
+{
+   "Name": "[CP] Pam Bus",
+   "Author": "Anonymous", 
+   "Version": "1.0.0",
+   "Description": "Pam bus. Keep on the good content Charlie!",
+   "UniqueID": "Anonymous.PamBus",
+   "MinimumApiVersion": "2.5",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

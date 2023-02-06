@@ -1,0 +1,11 @@
+{
+    "Name": "Grainger Overhaul",
+    "Author": "Gino Fratelli",
+    "Version": "1.0.0",
+    "Description": "A complete Grainger overhaul for Stardew. Who needs Joja anyway?",
+    "UniqueID": "GinoFratelli.GraingerOverhaul",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

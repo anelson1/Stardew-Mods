@@ -1,0 +1,17 @@
+{
+   "Format": "1.15.0",
+   "Changes": [
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors",
+         "FromFile": "assets/PamBus_1.png",
+         "PatchMode": "Overlay"
+      },
+      {
+         "Action": "EditImage",
+         "Target": "LooseSprites/Cursors2",
+         "FromFile": "assets/PamBus_2.png",
+         "PatchMode": "Overlay"
+      },
+  ]
+}

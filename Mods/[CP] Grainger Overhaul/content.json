@@ -1,0 +1,69 @@
+{
+    "Format": "1.28.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "TileSheets/Craftables",
+            "FromFile": "assets/Craftables.png"
+         },
+         {
+            "Action": "EditImage",
+            "Target": "townInterior, Maps/townInterior",
+            "FromFile": "assets/bigkeepstock.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 32, "Height": 48 }, 
+            "ToArea": { "X": 64, "Y": 704, "Width": 32, "Height": 48 },
+            "PatchMode": "Replace"
+           
+            },
+            {
+               "Action": "EditImage",
+               "Target": "springobjects, Maps/springobjects",
+               "FromFile": "assets/graingerjuice.png",
+               "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 }, 
+               "ToArea": { "X": 367, "Y": 96, "Width": 16, "Height": 16 },
+               "PatchMode": "Replace"
+              
+               },
+               {
+                  "LogName": "Joja 1",
+                  "Action": "EditImage",
+                  "Target": "Maps/{{season}}_town",
+                  "FromFile": "assets/grainger_{{season}}.png",
+                  "FromArea": { "X": 0, "Y": 0, "Width": 512, "Height": 156 }, 
+                  "ToArea": { "X": 0, "Y": 832, "Width": 512, "Height": 156 },
+                  "PatchMode": "Replace"
+               },
+               {
+                  "LogName": "Joja inside",
+                  "Action": "EditImage",
+                  "Target": "townInterior, Maps/townInterior",
+                  "FromFile": "assets/graingerinside.png",
+                  "FromArea": { "X": 0, "Y": 0, "Width": 416, "Height": 128 }, 
+                  "ToArea": { "X": 0, "Y": 928, "Width": 416, "Height": 128 },
+                  "PatchMode": "Replace"
+               },
+               {
+                  "LogName": "Joja Sign",
+                  "Action": "EditImage",
+                  "Target": "furniture, TileSheets/furniture",
+                  "FromFile": "assets/graingersign.png",
+                  "FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 23 }, 
+                  "ToArea": { "X": 144, "Y": 803, "Width": 48, "Height": 23 },
+                  "PatchMode": "Replace"
+               },
+             
+            {
+               "Action": "EditData",
+               "Target": "Data/ObjectInformation",
+               "Fields": {
+                   "167": {   
+                  4: "Grainger Juice", 
+                  5: "For the gamers who get it done."
+                   }
+               }
+           }
+            
+	
+     
+    ]
+ }
