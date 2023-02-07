@@ -1,7 +1,7 @@
 [Config]
 ConfigVersion = "0.15.0.110.0"
 # Should SpriteMaster be enabled? Unsetting this will disable _all_ SpriteMaster functionality.
-Enabled = false
+Enabled = true
 # Button to toggle SpriteMaster
 # Legal Values: [
 #	None, Back, Tab, Enter, Pause, CapsLock, Kana, Kanji, Escape, ImeConvert, 
